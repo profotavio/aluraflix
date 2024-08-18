@@ -11,6 +11,25 @@ header {
     color: rgb(42, 122, 228);
 }
 
+section {
+    background: rgb(184, 156, 213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+  }
+
+  section {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
 img {
     height: 100px;
 }
+
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+  }
