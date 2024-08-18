@@ -45,14 +45,9 @@ p {
 .categoria-videos img {
   opacity 0.5;
   img {
-    height: 200px;
+    height: 20px;
   }
-}
-.categoria-videos img {
-  opacity 0.5;
-  height: 200px
-}
-
 .categoria-videos img:hover {
   opacity 1.0;
+}
 }
