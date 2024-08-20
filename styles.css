@@ -6,6 +6,12 @@ body {
     margin-bottom: 100px;
 }
 
+.cambo-regular {
+    font-family: "Cambo", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
 header {
     border-bottom: solid 2px rgb(42, 122, 228);
     padding: 20px;
